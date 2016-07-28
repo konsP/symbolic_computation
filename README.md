@@ -1,5 +1,5 @@
 # symbolic_computation
-Hig and low level implementations of Euler's totient and factorial in Chapel and X10
+High and low level implementations of Euler's totient and factorial in Chapel and X10
 
 Two micro-benchmarks in two state-of-the-art languages, representing the Partitioned
 Global Address Space (PGAS) programming model, Chapel and X10. W
